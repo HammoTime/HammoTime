@@ -1,1 +1,1 @@
-![Hello, I'm Adam. I love working on Cloud Projects, especially those focusing on infrastructure-as-code and architecture. Currently focusing on Kubernetes, Serverless (AWS Lambda) and Go.](https://github.com/HammoTime/HammoTime/raw/master/github-personal-readme.png)
+![Hello, I'm Adam. I love working on Cloud Projects, especially those focusing on infrastructure-as-code and architecture. Currently focusing on Kubernetes, Serverless (AWS Lambda) and Go.](https://github.com/HammoTime/HammoTime/raw/master/github-personal-readme-v2.png)
