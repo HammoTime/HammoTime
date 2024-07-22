@@ -1,1 +1,1 @@
-![Hello, I'm Adam. I love working on Cloud Projects, especially those focusing on infrastructure-as-code and architecture. Currently focusing on Kubernetes, Serverless (AWS Lambda) and Go.](https://github.com/HammoTime/HammoTime/raw/master/github-personal-readme-v2.png)
+![G'day I'm Adam. I am an experienced Observability Engineer, and I love working on infrastructure and cloud-based projects. I spend a lot of time with Kubernetes, Python, Go, OpenTelemetry, and Grafana.](https://github.com/HammoTime/HammoTime/raw/master/github-personal-readme-v2.png)
