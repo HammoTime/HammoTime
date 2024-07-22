@@ -1,1 +1,1 @@
-![G'day I'm Adam. I am an experienced Observability Engineer, and I love working on infrastructure and cloud-based projects. I spend a lot of time with Kubernetes, Python, Go, OpenTelemetry, and Grafana.](https://github.com/HammoTime/HammoTime/raw/master/github-personal-readme-v2.png)
+![G'day I'm Adam. I am an experienced Observability Engineer, and I love working on infrastructure and cloud-based projects. I spend a lot of time with Kubernetes, Python, Go, OpenTelemetry, and Grafana.](https://github.com/HammoTime/HammoTime/raw/master/github-personal-readme-v3.png)
